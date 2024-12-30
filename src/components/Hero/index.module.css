@@ -1,0 +1,11 @@
+.bgImage {
+  background-image: url('../../assets/blue-pattern.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.bgRed {
+  background-color: red;
+}

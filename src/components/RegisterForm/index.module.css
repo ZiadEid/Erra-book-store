@@ -1,0 +1,7 @@
+.outerColor {
+  outline-color: #3182ce;
+}
+input[type="password"]::-ms-reveal,
+input[type="password"]::-ms-clear {
+  display: none;
+}
